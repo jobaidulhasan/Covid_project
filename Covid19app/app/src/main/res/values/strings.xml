@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">COVID-19 info</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="Country">Country</string>
+    <string name="feedback">Feedback</string>
+    <string name="total_confirmed">Total Confirmed</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="total_active">Total Active</string>
+    <string name="today">Today</string>
+    <string name="search">search</string>
+    <string name="loading">Loading..</string>
+    <string name="lastUpdate">Last Update\nloading</string>
+    <string name="all_country_det">All Country Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
